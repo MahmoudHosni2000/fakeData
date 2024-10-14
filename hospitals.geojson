@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.2357, 30.0444]
+      },
+      "properties": {
+        "name": "Cairo University Hospital",
+        "phone_number": "+201011223344",
+        "established_year": 1928
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.2345, 30.0544]
+      },
+      "properties": {
+        "name": "Ain Shams Specialized Hospital",
+        "phone_number": "+201022334455",
+        "established_year": 1986
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.2456, 30.0401]
+      },
+      "properties": {
+        "name": "As-Salam International Hospital",
+        "phone_number": "+201033445566",
+        "established_year": 1982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.2157, 30.0565]
+      },
+      "properties": {
+        "name": "Dar Al Fouad Hospital",
+        "phone_number": "+201044556677",
+        "established_year": 1996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.2214, 30.0637]
+      },
+      "properties": {
+        "name": "Al-Azhar University Hospital",
+        "phone_number": "+201055667788",
+        "established_year": 1980
+      }
+    },
+   
