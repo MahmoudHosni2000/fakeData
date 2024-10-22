@@ -11,9 +11,8 @@
                 ]
             },
             "properties": {
-                "name": "Cairo University Hospital",
-                "phone_number": "+201011223344",
-                "established_year": 1928
+                "name": "Cairo Medical Center",
+                "address": "123 Nile Street, Cairo, Egypt"
             }
         },
         {
@@ -21,14 +20,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.2345,
-                    30.0544
+                    29.9187,
+                    31.2001
                 ]
             },
             "properties": {
-                "name": "Ain Shams Specialized Hospital",
-                "phone_number": "+201022334455",
-                "established_year": 1986
+                "name": "Alexandria Health Center",
+                "address": "456 Corniche Road, Alexandria, Egypt"
             }
         },
         {
@@ -36,14 +34,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.2456,
-                    30.0401
+                    31.2089,
+                    30.0131
                 ]
             },
             "properties": {
-                "name": "As-Salam International Hospital",
-                "phone_number": "+201033445566",
-                "established_year": 1982
+                "name": "Giza Medical Plaza",
+                "address": "789 Pyramids Road, Giza, Egypt"
             }
         },
         {
@@ -51,14 +48,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.2157,
-                    30.0565
+                    31.3807,
+                    31.0364
                 ]
             },
             "properties": {
-                "name": "Dar Al Fouad Hospital",
-                "phone_number": "+201044556677",
-                "established_year": 1996
+                "name": "Mansoura Health Hub",
+                "address": "234 Nile Street, Mansoura, Egypt"
             }
         },
         {
@@ -66,14 +62,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.2214,
-                    30.0637
+                    32.6396,
+                    25.6872
                 ]
             },
             "properties": {
-                "name": "Al-Azhar University Hospital",
-                "phone_number": "+201055667788",
-                "established_year": 1980
+                "name": "Luxor Healthcare Center",
+                "address": "567 Kings Valley, Luxor, Egypt"
             }
         },
         {
@@ -81,14 +76,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.2201,
-                    30.0544
+                    32.8998,
+                    24.0908
                 ]
             },
             "properties": {
-                "name": "Misr International Hospital",
-                "phone_number": "+201066778899",
-                "established_year": 1994
+                "name": "Aswan Regional Hospital",
+                "address": "789 Nubia Street, Aswan, Egypt"
             }
         },
         {
@@ -96,14 +90,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.2235,
-                    30.0483
+                    31.0004,
+                    30.7937
                 ]
             },
             "properties": {
-                "name": "Egyptian German Hospital",
-                "phone_number": "+201077889900",
-                "established_year": 2001
+                "name": "Tanta City Hospital",
+                "address": "123 Mahalla Street, Tanta, Egypt"
             }
         },
         {
@@ -111,14 +104,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.2391,
-                    30.0648
+                    32.5498,
+                    29.9668
                 ]
             },
             "properties": {
-                "name": "Sayed Galal Hospital",
-                "phone_number": "+201088990011",
-                "established_year": 1980
+                "name": "Suez Bay Medical",
+                "address": "456 Port Street, Suez, Egypt"
             }
         },
         {
@@ -126,14 +118,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.2478,
-                    30.048
+                    32.3019,
+                    31.2653
                 ]
             },
             "properties": {
-                "name": "El Manial Specialized Hospital",
-                "phone_number": "+201099001122",
-                "established_year": 1979
+                "name": "Port Said Clinic",
+                "address": "789 Harbor Road, Port Said, Egypt"
             }
         },
         {
@@ -141,14 +132,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.2104,
-                    30.0601
+                    31.502,
+                    30.5877
                 ]
             },
             "properties": {
-                "name": "Mubarak Hospital",
-                "phone_number": "+201200223344",
-                "established_year": 1988
+                "name": "Zagazig Medical Center",
+                "address": "123 Delta Road, Zagazig, Egypt"
             }
         },
         {
@@ -156,14 +146,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.2219,
-                    30.0492
+                    30.8418,
+                    29.3089
                 ]
             },
             "properties": {
-                "name": "Al-Hekma Hospital",
-                "phone_number": "+201211334455",
-                "established_year": 1990
+                "name": "Fayoum General Hospital",
+                "address": "456 Oasis Street, Fayoum, Egypt"
             }
         },
         {
@@ -171,14 +160,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.2183,
-                    30.0599
+                    32.2655,
+                    30.59
                 ]
             },
             "properties": {
-                "name": "New Kasr El Einy Hospital",
-                "phone_number": "+201222445566",
-                "established_year": 2005
+                "name": "Ismailia Medical Center",
+                "address": "789 Canal Road, Ismailia, Egypt"
             }
         },
         {
@@ -186,14 +174,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.2304,
-                    30.0665
+                    34.3299,
+                    27.9158
                 ]
             },
             "properties": {
-                "name": "Heliopolis Hospital",
-                "phone_number": "+201233556677",
-                "established_year": 1972
+                "name": "Sharm Health Clinic",
+                "address": "123 Beach Road, Sharm El-Sheikh, Egypt"
             }
         },
         {
@@ -201,14 +188,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.2123,
-                    30.0421
+                    33.8116,
+                    27.2579
                 ]
             },
             "properties": {
-                "name": "Al-Nas Hospital",
-                "phone_number": "+201244667788",
-                "established_year": 1997
+                "name": "Hurghada Wellness Center",
+                "address": "456 Marina Road, Hurghada, Egypt"
             }
         },
         {
@@ -216,14 +202,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.2323,
-                    30.0483
+                    34.5136,
+                    28.4956
                 ]
             },
             "properties": {
-                "name": "Cairo Specialties Hospital",
-                "phone_number": "+201255778899",
-                "established_year": 1989
+                "name": "Dahab Medical Center",
+                "address": "789 Dive Road, Dahab, Egypt"
             }
         },
         {
@@ -231,14 +216,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.2211,
-                    30.05
+                    31.3032,
+                    29.8414
                 ]
             },
             "properties": {
-                "name": "Al-Mahalla Hospital",
-                "phone_number": "+201266889900",
-                "established_year": 1995
+                "name": "Helwan Health Hub",
+                "address": "123 Factory Road, Helwan, Egypt"
             }
         },
         {
@@ -246,14 +230,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.2159,
-                    30.0595
+                    31.0994,
+                    29.0661
                 ]
             },
             "properties": {
-                "name": "Nasser Institute for Research and Treatment",
-                "phone_number": "+201277990011",
-                "established_year": 2003
+                "name": "Beni Suef Hospital",
+                "address": "456 University Road, Beni Suef, Egypt"
             }
         },
         {
@@ -261,14 +244,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.2076,
-                    30.0485
+                    32.716,
+                    26.1551
                 ]
             },
             "properties": {
-                "name": "Ahl Masr Hospital",
-                "phone_number": "+201288001122",
-                "established_year": 2010
+                "name": "Qena Medical Center",
+                "address": "789 River Road, Qena, Egypt"
             }
         },
         {
@@ -276,14 +258,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.2359,
-                    30.0524
+                    31.1859,
+                    27.1783
                 ]
             },
             "properties": {
-                "name": "Royal Care Hospital",
-                "phone_number": "+201299112233",
-                "established_year": 2015
+                "name": "Asyut Health Institute",
+                "address": "123 Mountain Road, Asyut, Egypt"
             }
         },
         {
@@ -291,14 +272,83 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.2404,
-                    30.0539
+                    31.6948,
+                    26.5587
                 ]
             },
             "properties": {
-                "name": "Al-Salam International Hospital",
-                "phone_number": "+201300223344",
-                "established_year": 2011
+                "name": "Sohag Regional Medical",
+                "address": "456 Oasis Road, Sohag, Egypt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.7596,
+                    28.1099
+                ]
+            },
+            "properties": {
+                "name": "Minya Health Center",
+                "address": "789 Delta Road, Minya, Egypt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8133,
+                    31.4165
+                ]
+            },
+            "properties": {
+                "name": "Damietta City Hospital",
+                "address": "123 Coastal Road, Damietta, Egypt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9388,
+                    31.1111
+                ]
+            },
+            "properties": {
+                "name": "Kafr El-Sheikh Medical",
+                "address": "456 Farmer Street, Kafr El-Sheikh, Egypt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2373,
+                    31.3525
+                ]
+            },
+            "properties": {
+                "name": "Matruh Health Center",
+                "address": "789 Coastline Road, Matruh, Egypt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.8006,
+                    31.1313
+                ]
+            },
+            "properties": {
+                "name": "North Sinai Clinic",
+                "address": "123 Desert Road, Arish, Egypt"
             }
         }
     ]
